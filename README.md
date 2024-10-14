@@ -30,7 +30,7 @@ This application streamlines the process of submitting and managing reclamations
 
 ### Installation for Developers
 
-1. Clone the repository: `git clone https://github.com/yssn0/Flutter-app-Gestion-Reclamation-r-sidents-syndic.git`
+1. Clone the repository: `git clone https://github.com/yssn0/Flutter-app-Gestion-Reclamation-residents-syndic.git`
 2. Navigate to the project directory: `cd Flutter-app-Gestion-Reclamation-r-sidents-syndic`
 3. Install dependencies: `flutter pub get`
 4. Run the application: `flutter run`
@@ -92,7 +92,7 @@ For those who want to try the app without creating a new account, you can use th
    - Toggle on **Allow from this source**.
 
 2. **Download and Install the APK**:
-   - Click on the [APK download link](https://github.com/yssn0/Flutter-app-Gestion-Reclamation-r-sidents-syndic/releases) to download the file.
+   - Click on the [APK download link](https://github.com/yssn0/Flutter-app-Gestion-Reclamation-residents-syndic/releases) to download the file.
    - Once downloaded, open the APK file.
    - Follow the on-screen prompts to install the application.
 
