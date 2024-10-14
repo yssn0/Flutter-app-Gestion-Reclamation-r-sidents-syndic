@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"XXXX","appId":"X:XXXXX:android:XXXXXX","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"XXXXX-app","configurations":{"android":"X:XXXXXX:android:XXXXX","ios":"X:XXXXXX:ios:XXXXXX","macos":"X:XXXXXXX","web":"X:XXXX:web:XXXXXXX","windows":"X:XXXXXXXX"}}}}}}

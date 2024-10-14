@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-ccyvnvr",
+    "appUrl": "https://services.cloud.mongodb.com/groups/667fa21648568d2e8dc4b132/apps/668080035bce459cb02adb04/dashboard",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://eu-west-2.aws.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://eu-west-2.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/667fa21648568d2e8dc4b132/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
