@@ -39,7 +39,7 @@ This application streamlines the process of submitting and managing reclamations
 
 ### MongoDB Atlas and Firebase Configuration
 
-The files `MongoDB Atlas`, `firebase_options.dart`, `Databasefirebase.json`, `atlasonfig.json`, and `google-services.json` contain sensitive information such as keys and app IDs. For security reasons, the values of these files have been changed and should not be used in production.
+The files `MongoDB Atlas`, `firebase_options.dart`, `Databasefirebase.json`, `atlasonfig.json`, and `google-services.json` contain sensitive information such as keys and app IDs. For security reasons, the values of these files have been changed.
 
 To use this project, you must create your own MongoDB Atlas database and Firebase project, and replace the variables with your own keys and IDs.
 
