@@ -1,4 +1,4 @@
-# Gestion Reclamation résidents-syndic
+# Resident-Trustee Complaint Management
 
 A Flutter-based mobile application for managing resident-syndic reclamations efficiently.
 
