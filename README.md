@@ -35,37 +35,32 @@ This application streamlines the process of submitting and managing reclamations
 3. Install dependencies: `flutter pub get`
 4. Run the application: `flutter run`
 
-## Important Notes
+## Setup Instructions
 
 ### MongoDB Atlas and Firebase Configuration
+The files `MongoDB Atlas`, `firebase_options.dart`, `Databasefirebase.json`, `atlasonfig.json`, and `google-services.json` contain sensitive information such as keys and app IDs. For security reasons, the values in these files have been replaced with placeholders.
 
-The files `MongoDB Atlas`, `firebase_options.dart`, `Databasefirebase.json`, `atlasonfig.json`, and `google-services.json` contain sensitive information such as keys and app IDs. For security reasons, the values of these files have been changed.
-
-To use this project, you must create your own MongoDB Atlas database and Firebase project, and replace the variables with your own keys and IDs.
+To use this project, you must create your own MongoDB Atlas database and Firebase project, then replace the placeholders with your own keys and IDs.
 
 ### Creating a MongoDB Atlas Database
-
 1. Go to the [MongoDB Atlas website](https://www.mongodb.com/cloud/atlas) and create an account.
 2. Create a new cluster and database.
 3. Create a new user and obtain the connection string.
-4. Replace the `MongoDB Atlas` file with your own connection string.
+4. Replace the placeholder in `MongoDB Atlas` with your connection string.
 
 ### Creating a Firebase Project
-
 1. Go to the [Firebase website](https://firebase.google.com/) and create an account.
 2. Create a new Firebase project.
-3. Enable the necessary services (e.g. Authentication, Realtime Database).
+3. Enable necessary services (e.g., Authentication, Realtime Database).
 4. Obtain the Firebase configuration file (`google-services.json`) and replace the existing file.
-5. Replace the `firebase_options.dart` file with your own Firebase options.
+5. Replace `firebase_options.dart` with your Firebase configuration.
 
 ### Replacing Variables
-
-Replace the following variables with your own keys and IDs:
-
-* `appId` in `firebase_options.dart`
-* `apiKey` in `firebase_options.dart`
-* `databaseURL` in `Databasefirebase.json`
-* `connectionString` in `MongoDB Atlas`
+Replace the following variables in your project with your own values:
+- `appId` in `firebase_options.dart`
+- `apiKey` in `firebase_options.dart`
+- `databaseURL` in `Databasefirebase.json`
+- `connectionString` in `MongoDB Atlas`
 
 ## Usage
 
